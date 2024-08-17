@@ -1,0 +1,11 @@
+langchain
+openai
+ipykernel
+python-dotenv
+langchain-community
+langchain-openai
+streamlit
+wikipedia
+numexpr
+google-search-results
+serpapi
